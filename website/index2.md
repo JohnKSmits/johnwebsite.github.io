@@ -5,7 +5,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./website/index2.html).
+[Project1](./website/index2.html).
 
 There should be whitespace between paragraphs.
 
