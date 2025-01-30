@@ -29,3 +29,10 @@ step, including reconnaissance, exploitation, and flag retrieval, demonstrating 
 penetration testing methodologies.
 
 ![MrRobot](https://images.squarespace-cdn.com/content/v1/56dc8e484d088e50d808772d/1469693706604-IA9JQWPOVNEA8QQ5BYDM/image-asset.jpeg)
+
+# [Windows Active Directory](./windowsad.md)
+
+In this activity, I configured and managed Group Policy Objects (GPOs) within a Windows Active Directory environment to 
+enforce security policies and system configurations. I implemented restrictions, automated administrative tasks, and ensured 
+compliance with organizational security standards. This exercise demonstrated my ability to strengthen enterprise security 
+through centralized policy management.
