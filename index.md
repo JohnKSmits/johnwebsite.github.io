@@ -2,8 +2,28 @@
 layout: default
 ---
 
-# [Pentesting Report](./Project1.md)
+# [Pentesting Report](./Pentest.md)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This penetration testing report details the security assessment conducted on megacorpone, identifying vulnerabilities that 
+could be exploited by attackers. The engagement included reconnaissance, exploitation, and post-exploitation analysis, 
+revealing critical, high, and medium-risk vulnerabilities. Recommendations for remediation were provided to enhance security
+posture and mitigate potential threats."
 
+
+
+# [Splunk](./Splunk.md)
+
+In this Splunk analysis, I established system baselines and monitored attack logs to detect anomalies and potential threats. 
+By correlating log data from various sources, I identified deviations from normal behavior, uncovering indicators of 
+compromise (IOCs) related to Brute Force attack, DDOS attack, and domain policy changes. The insights gained were used to 
+enhance threat detection and improve incident response strategies.
+
+
+
+[MrRobot CTF Walkthorugh](./mrrobot.md)
+
+In this Capture The Flag (CTF) challenge inspired by MrRobot I exploited vulnerabilities using enumeration, web server 
+misconfigurations, brute force attacks, wordpress vulnerabilities, and priviledge escalation. The walkthrough details each
+step, including reconnaissance, exploitation, and flag retrieval, demonstrating my proficiency in ethical hacking and 
+penetration testing methodologies.
 
