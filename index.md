@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Project1](./index2.md).
+[Project1](./Project1.md).
 
 There should be whitespace between paragraphs.
 
