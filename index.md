@@ -9,7 +9,7 @@ could be exploited by attackers. The engagement included reconnaissance, exploit
 revealing critical, high, and medium-risk vulnerabilities. Recommendations for remediation were provided to enhance security
 posture and mitigate potential threats."
 
-
+![Branching](https://www.shutterstock.com/image-vector/pentesting-software-minimal-infographic-web-260nw-1690813600.jpg)
 
 # [Splunk](./Splunk.md)
 
@@ -20,7 +20,7 @@ enhance threat detection and improve incident response strategies.
 
 
 
-[MrRobot CTF Walkthorugh](./mrrobot.md)
+# [MrRobot CTF Walkthorugh](./mrrobot.md)
 
 In this Capture The Flag (CTF) challenge inspired by MrRobot I exploited vulnerabilities using enumeration, web server 
 misconfigurations, brute force attacks, wordpress vulnerabilities, and priviledge escalation. The walkthrough details each
