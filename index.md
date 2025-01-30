@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# [Template](./index2.md)
 
 # [Pentesting Report](./Pentest.md)
 
