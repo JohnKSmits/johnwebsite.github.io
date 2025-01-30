@@ -3,7 +3,7 @@ layout: default
 ---
 # [Template](./index2.md)
 
-# [Pentesting Report](./Pentest.md)
+# [Pentesting Report](https://drive.google.com/file/d/1k1erBssyMeyNFZEJGLyxhGph5TxgsoL7/view?usp=sharing)
 
 This penetration testing report details the security assessment conducted on megacorpone, identifying vulnerabilities that 
 could be exploited by attackers. The engagement included reconnaissance, exploitation, and post-exploitation analysis, 
@@ -12,7 +12,7 @@ posture and mitigate potential threats."
 
 ![Pentesting](https://www.shutterstock.com/image-vector/pentesting-software-minimal-infographic-web-260nw-1690813600.jpg)
 
-# [Splunk Log Analysis](./Splunk.md)
+# [Splunk Log Analysis](https://drive.google.com/file/d/1dKfPR4RsnlaR86V7QtOpbWqBXdIit0t5/view?usp=sharing)
 
 In this Splunk analysis, I established system baselines and monitored attack logs to detect anomalies and potential threats. 
 By correlating log data from various sources, I identified deviations from normal behavior, uncovering indicators of 
@@ -21,7 +21,7 @@ enhance threat detection and improve incident response strategies.
 
 ![Splunk](https://discoveredintelligence.com/wp-content/uploads/2017/01/splunk_data_integration.png)
 
-# [MrRobot CTF Walkthorugh](./mrrobot.md)
+# [MrRobot CTF Walkthorugh](https://drive.google.com/file/d/1VfwPWVlOGWI69MmZcE1jEXkZTCCd7_ex/view?usp=sharing)
 
 In this Capture The Flag (CTF) challenge inspired by MrRobot I exploited vulnerabilities using enumeration, web server 
 misconfigurations, brute force attacks, wordpress vulnerabilities, and priviledge escalation. The walkthrough details each
