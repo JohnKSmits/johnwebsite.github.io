@@ -11,7 +11,7 @@ posture and mitigate potential threats."
 
 ![Pentesting](https://www.shutterstock.com/image-vector/pentesting-software-minimal-infographic-web-260nw-1690813600.jpg)
 
-# [Splunk](./Splunk.md)
+# [Splunk Log Analysis](./Splunk.md)
 
 In this Splunk analysis, I established system baselines and monitored attack logs to detect anomalies and potential threats. 
 By correlating log data from various sources, I identified deviations from normal behavior, uncovering indicators of 
