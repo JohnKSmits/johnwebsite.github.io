@@ -36,3 +36,9 @@ In this activity, I configured and managed Group Policy Objects (GPOs) within a 
 enforce security policies and system configurations. I implemented restrictions, automated administrative tasks, and ensured 
 compliance with organizational security standards. This exercise demonstrated my ability to strengthen enterprise security 
 through centralized policy management.
+
+# [HoneyPot in Linode](./honeypot.md)
+
+I deployed a T-Pot honeypot on Linode to capture and analyze real-world cyber threats in a controlled environment. The setup 
+included multiple honeypot services to detect various attack vectors, providing valuable insights into malicious activity, attacker 
+behavior, and exploit techniques. Logs and analytics were used to enhance threat intelligence and improve defensive security strategies.
