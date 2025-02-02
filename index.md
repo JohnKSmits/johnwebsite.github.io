@@ -37,8 +37,12 @@ enforce security policies and system configurations. I implemented restrictions,
 compliance with organizational security standards. This exercise demonstrated my ability to strengthen enterprise security 
 through centralized policy management.
 
+![WindowsADMain](https://www.server-world.info/en/Windows_Server_2019/active_directory/img/31.png)
+
 # [HoneyPot in Linode](./honeypot.md)
 
 I deployed a T-Pot honeypot on Linode to capture and analyze real-world cyber threats in a controlled environment. The setup 
 included multiple honeypot services to detect various attack vectors, providing valuable insights into malicious activity, attacker 
 behavior, and exploit techniques. Logs and analytics were used to enhance threat intelligence and improve defensive security strategies.
+
+![TPOTWEB](./images/TPOT.png)
