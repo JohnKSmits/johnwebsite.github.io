@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 
 #Windows AD lab (2 labs)
 
