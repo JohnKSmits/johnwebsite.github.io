@@ -2,9 +2,9 @@
 layout: default
 ---
 
-#Windows AD lab (2 labs)
+# Windows AD lab (2 labs)
 
-#Lab 1
+# Lab 1
 
 One lab was done on Azure cloud and I was tasked with creating GPOs to enforce different
 policies that might be used in a company environment. I also created a script to list the ACLs
@@ -17,7 +17,7 @@ of all items in a directory.
 
 ![Account Policies](./images/Windows-PowerShell-Policies.jpg)
 
-#lab 2
+# lab 2
 
 For this lab I used virtual box and installed windows server 2019 for the DC and Windows 10 
 for the client. I wanted the clients to be able to connnect to the internet but at the same time I
