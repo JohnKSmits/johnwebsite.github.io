@@ -29,6 +29,11 @@ DHCP so it could automatically assign the clients IP addresses.
 
 ![Account Policies](./images/DHCP.png)
 
+
+
+I also created this script to create 1000 users to play with.
+
+
 ![Account Policies](./images/RunningUserScript.png)
 
 
