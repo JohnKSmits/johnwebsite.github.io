@@ -20,12 +20,9 @@ of all items in a directory.
 # lab 2
 
 For this lab I used virtual box and installed windows server 2019 for the DC and Windows 10 
-for the client. I wanted the clients to be able to connnect to the internet but at the same time I
-wanted to give them private IP's from the DC so they can commicate with each other. There are 2 
-Virtual Network Interface Card's(NIC) I used for the DC. The NAT to communicate with the internet 
-through my host PC, and the internal network. The DC acted as the default gateway for all the 
-Clients so they could connect to the internet. I had to install windows AD on the DC and then
-DHCP so it could automatically assign the clients IP addresses.
+for the hosts. I used the Domain Contoller(Windows 2019 Server) as the default gateway for all the hosts and
+set up 2 NICs on the DC. So all the hosts are assigned addresses from the DC through DHCP. All the hosts can
+connect to the internet through the DC with is connected to my PC with NAT.
 
 ![Account Policies](./images/WindowsADdomain.png)
 
