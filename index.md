@@ -12,7 +12,7 @@ posture and mitigate potential threats."
 
 # [Cyber Security Phishing Training]()
 
-![Phishing](./images/Forage Certificate_page1.jpg)
+![Phishing](./images/Phishing.jpg)
 
 # [Splunk Log Analysis](https://drive.google.com/file/d/1dKfPR4RsnlaR86V7QtOpbWqBXdIit0t5/view?usp=sharing)
 
