@@ -10,9 +10,9 @@ posture and mitigate potential threats."
 
 ![Pentesting](https://www.shutterstock.com/image-vector/pentesting-software-minimal-infographic-web-260nw-1690813600.jpg)
 
-# [Cyber Security Phishing Training](./phishing.md)
+# [Cyber Security Phishing Training])
 
-![Phishing](images/mastercardphishingsimulation.pdf)
+![Phishing](./images/mastercardphishingsimulation.pdf)
 
 # [Splunk Log Analysis](https://drive.google.com/file/d/1dKfPR4RsnlaR86V7QtOpbWqBXdIit0t5/view?usp=sharing)
 
