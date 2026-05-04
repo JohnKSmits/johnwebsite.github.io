@@ -12,9 +12,9 @@ posture and mitigate potential threats."
 
 ![Pentesting](https://www.shutterstock.com/image-vector/pentesting-software-minimal-infographic-web-260nw-1690813600.jpg)
 
-# [Metasploit, and Cyber Security Training](./cert.md)
+# [Cybersecurity Awareness & Penetration Testing Simulation Project](./cert.md)
 
-In this presentation on the 
+Completed a hands-on cybersecurity simulation through Mastercard’s Phishing Email Certification program on Forage, gaining practical experience in identifying, analyzing, and mitigating phishing attacks. Developed skills in recognizing social engineering techniques, email spoofing indicators, and threat patterns. Additionally, researched and delivered a detailed presentation on the Metasploit Framework, covering its architecture, modules, and real-world penetration testing applications. Applied this knowledge in a controlled lab environment by using Metasploit to simulate phishing campaigns, including crafting malicious email payloads with embedded download links and attachments to demonstrate common attack vectors. Emphasized ethical considerations, secure testing practices, and strategies for detecting and preventing such attacks in organizational environments.
 
 # [Splunk Log Analysis](https://drive.google.com/file/d/1dKfPR4RsnlaR86V7QtOpbWqBXdIit0t5/view?usp=sharing)
 
