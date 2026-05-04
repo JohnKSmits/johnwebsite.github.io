@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+Click the headers on this page to view projects.
+
 # [Pentesting Report](https://drive.google.com/file/d/1ABmMokKL_AiCh6CGznK663EJDEh7kppu/view?usp=sharing)
 
 This penetration testing report details the security assessment conducted on megacorpone, identifying vulnerabilities that 
